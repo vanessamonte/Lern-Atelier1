@@ -11,7 +11,25 @@ Vanessa Monteleone
 2. Für die nächste Lernperiode will ich mir jetzt schon ein neues Projekt überlegen. (JavaSkript?)
 ### Generelle Ziele
 - Ich will mich in dieser Lernperiode auf die Module 431 und 319 fokussieren und jeweils an diesen weiterarbeiten.
-## Feinplanung
+## Fein-Planung
 ### 22.08.2025
+1. Ich möchte herausfinden, was QV ist und wie es berechnet wird.
+2. Ich möchte den Upload einer LB üben und verstehen, wieso es so viele Ordner braucht.
+3. Ich möchte es schaffen, Visual Studio Code mit GitHub erneut zu synchronisieren.
+#### Tagesreflexion
+1. Ich weiss jetzt über die QV bescheid.
+2. Ich habe die Ordner für die LB-Abgabe erfolgreich erstellt und zu einer ZIP-Datei konvertiert.
+3. Ich habe es nicht ganz geschafft, VSC mit GitHub zu synchronisieren.
 ### 29.08.2025
-1. Ich möchte die Planung für die erste Lernperiode schreiben
+1. Ich möchte die Planung für die erste Lernperiode schreiben.
+2. Ich möchte VSC synchronisieren können.
+3. Ich möchte die Hausaufgaben für M319 erledigen (Mission 6).
+4. Ich möchte die Hausaufgaben für M431 erledigen (1707).
+5. Ich möchte heute eine gute Tagesreflexion erstellen und alle vorgeschlagenen Punkte dafür beachten.
+#### Tagesreflexion
+1. Ich habe die Planung nach der Anleitung in der Powerpoint geschrieben
+2. Ich konnte mit Hilfe von Leonardo und Herrn Lauk VSC mit GitHub synchronisieren, und verstehe Visual Studio jetzt ganz sicher.
+   (zum Merken: zuerst Stagen, dann Committen, dann Synchronisieren.)
+3. Ich habe Mission 6 ohne Probleme erledigt.
+4. Ich habe Mission 7 auch ohne Probleme erledigt.
+5. Ich habe meine Tagesreflexion entsprechend zu den Zielen nummeriert und ja, diese schreibe ich ja gerade:)
