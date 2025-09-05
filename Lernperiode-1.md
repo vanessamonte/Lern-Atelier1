@@ -32,6 +32,9 @@ Vanessa Monteleone
    (zum Merken: zuerst Stagen, dann Committen, dann Synchronisieren.)
 3. Ich habe Mission 6 ohne Probleme erledigt.
 4. Ich habe Mission 7 auch ohne Probleme erledigt.
-5. Ich habe meine Tagesreflexion entsprechend zu den Zielen nummeriert (und ja, diese schreibe ich ja gerade:)
+5. Ich habe meine Tagesreflexion entsprechend zu den Zielen nummeriert (und ja, diese schreibe ich ja gerade :-)
 ### 05.09.2025
-
+1. Ich will konzentriert und selbstständig arbeiten, und mich nicht von den anderen ablenken lassen.
+2. Ich möchte bei Modul 319 Mission 6 abschliessen.
+3. Ich möchte bei Modul 431, Handlungsziel 1, Aufgabe 1706 bis 1708 abgeben.
+#### Tagesreflexion
