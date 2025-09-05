@@ -23,8 +23,8 @@ Vanessa Monteleone
 ### 29.08.2025
 1. Ich möchte die Planung für die erste Lernperiode schreiben.
 2. Ich möchte VSC synchronisieren können.
-3. Ich möchte die Hausaufgaben für M319 erledigen (Mission 6).
-4. Ich möchte die Hausaufgaben für M431 erledigen (1707).
+3. Ich möchte die Hausaufgaben für M319 erledigen (Mission 5).
+4. Ich möchte die Hausaufgaben für M431 erledigen (1705).
 5. Ich möchte heute eine gute Tagesreflexion erstellen und alle vorgeschlagenen Punkte dafür beachten.
 #### Tagesreflexion
 1. Ich habe die Planung nach der Anleitung in der Powerpoint geschrieben
@@ -36,5 +36,5 @@ Vanessa Monteleone
 ### 05.09.2025
 1. Ich will konzentriert und selbstständig arbeiten, und mich nicht von den anderen ablenken lassen.
 2. Ich möchte bei Modul 319 Mission 6 abschliessen.
-3. Ich möchte bei Modul 431, Handlungsziel 1, Aufgabe 1706 bis 1708 abgeben.
+3. Ich möchte bei Modul 431, Handlungsziel 1, Aufgaben 1706 bis 1708 abgeben.
 #### Tagesreflexion
