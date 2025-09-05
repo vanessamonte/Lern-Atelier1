@@ -38,3 +38,7 @@ Vanessa Monteleone
 2. Ich möchte bei Modul 319 Mission 6 abschliessen.
 3. Ich möchte bei Modul 431, Handlungsziel 1, Aufgaben 1706 bis 1708 abgeben.
 #### Tagesreflexion
+1. Ich finde, ich habe heute sehr selbstständig gearbeitet und auch konzentriert.
+2. Mission 6 habe ich angefangen, habe aber noch Schwierigkeiten gehabt.
+3. Beim Modul 431 hatte ich keine Probleme.
+4. Zusätzlich habe ich auch meinen Mitschülern geholfen.
