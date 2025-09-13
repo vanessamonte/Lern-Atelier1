@@ -30,25 +30,24 @@ Vanessa Monteleone
 1. Ich habe die Planung nach der Anleitung in der Powerpoint geschrieben
 2. Ich konnte mit Hilfe von Leonardo und Herrn Lauk VSC mit GitHub synchronisieren, und verstehe Visual Studio jetzt ganz sicher.
    (zum Merken: zuerst Stagen, dann Committen, dann Synchronisieren.)
-3. Ich habe Mission 6 ohne Probleme erledigt.
-4. Ich habe Mission 7 auch ohne Probleme erledigt.
+3. und 4. Ich habe die Hausaufgaben ohne Probleme erledigt.
 5. Ich habe meine Tagesreflexion entsprechend zu den Zielen nummeriert (und ja, diese schreibe ich ja gerade :-)
 ### 05.09.2025
+1. Ich möchte bei Modul 319 Mission 6 abschliessen.
+2. Ich möchte bei Modul 431, Handlungsziel 1, Aufgaben 1706 bis 1708 abgeben.
+#### Tagesreflexion
+1. Mission 6 habe ich angefangen, habe aber noch Schwierigkeiten gehabt und bin nicht fertig geworden.
+2. Beim Modul 431 bin ich nicht so weit gekommen wie gehofft.
+3. Zusätzlich habe ich aber meinen Mitschülern geholfen.
+### 12.09.2025
 1. Ich will konzentriert und selbstständig arbeiten, und mich nicht von den anderen ablenken lassen.
-2. Ich möchte bei Modul 319 Mission 6 abschliessen.
-3. Ich möchte bei Modul 431, Handlungsziel 1, Aufgaben 1706 bis 1708 abgeben.
+2. Ich will beim Modul 431 weiterarbeiten und mir diesmal keinen Druck machen, wie viele Aufgaben ich erledigen sollte.
+3. Ich möchte bei Modul 319 Mission 6 abschliessen.
 #### Tagesreflexion
 1. Ich finde, ich habe heute sehr selbstständig gearbeitet und auch konzentriert.
-2. Mission 6 habe ich angefangen, habe aber noch Schwierigkeiten gehabt und bin nicht fertig geworden.
-3. Veim Modul 431 bin ich nicht so weit gekommen wie gehofft.
-4. Zusätzlich habe ich auch meinen Mitschülern geholfen.
-### 12.09.2025
-1. Ich will beim Modul 431 weiterarbeiten und mir diesmal keinen Druck machen, wie viele Aufgaben ich erledigen sollte.
-2. Ich möchte bei Modul 319 Mission 6 abschliessen.
-#### Tagesreflexion
-1. Beim Modul 431 hatte ich keine Probleme.
-2. Mission 6 konnte ich erfolgreich abschliessen, nachdem ich im Unterricht bei Frau Dillier Fragen geklärt habe. Und mit Mission 7 habe ich bereits begonnen im Unterricht.
-3. Ich habe auch mein WLAN-Problem geklärt, ich konnte mich bis jetzt nicht mit dem BBB-WLAN verbinden auf dem Handy. Danke, Herr Lauk!
-4. Ich habe mich sehr nett mit Herrn Lauk unterhalten bei den Einzelngesprächen.
+2. Beim Modul 431 hatte ich keine Probleme.
+3. Mission 6 konnte ich erfolgreich abschliessen, nachdem ich im Unterricht bei Frau Dillier Fragen geklärt habe. Und mit Mission 7 habe ich bereits begonnen im Unterricht.
+4. Ich habe auch mein WLAN-Problem geklärt, ich konnte mich bis jetzt nicht mit dem BBB-WLAN verbinden auf dem Handy. Danke, Herr Lauk!
+5. Ich habe mich sehr nett mit Herrn Lauk unterhalten bei den Einzelngesprächen.
 ### 19.09.2025
 1. Ich will mir alle Aufgaben vom Modul 319 nochmals durchschauen und aufkommende Fragen notieren, um sie Frau Dillier noch vor den Ferien stellen zu können.
