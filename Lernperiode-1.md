@@ -39,6 +39,16 @@ Vanessa Monteleone
 3. Ich möchte bei Modul 431, Handlungsziel 1, Aufgaben 1706 bis 1708 abgeben.
 #### Tagesreflexion
 1. Ich finde, ich habe heute sehr selbstständig gearbeitet und auch konzentriert.
-2. Mission 6 habe ich angefangen, habe aber noch Schwierigkeiten gehabt.
-3. Beim Modul 431 hatte ich keine Probleme.
+2. Mission 6 habe ich angefangen, habe aber noch Schwierigkeiten gehabt und bin nicht fertig geworden.
+3. Veim Modul 431 bin ich nicht so weit gekommen wie gehofft.
 4. Zusätzlich habe ich auch meinen Mitschülern geholfen.
+### 12.09.2025
+1. Ich will beim Modul 431 weiterarbeiten und mir diesmal keinen Druck machen, wie viele Aufgaben ich erledigen sollte.
+2. Ich möchte bei Modul 319 Mission 6 abschliessen.
+#### Tagesreflexion
+1. Beim Modul 431 hatte ich keine Probleme.
+2. Mission 6 konnte ich erfolgreich abschliessen, nachdem ich im Unterricht bei Frau Dillier Fragen geklärt habe. Und mit Mission 7 habe ich bereits begonnen im Unterricht.
+3. Ich habe auch mein WLAN-Problem geklärt, ich konnte mich bis jetzt nicht mit dem BBB-WLAN verbinden auf dem Handy. Danke, Herr Lauk!
+4. Ich habe mich sehr nett mit Herrn Lauk unterhalten bei den Einzelngesprächen.
+### 19.09.2025
+1. Ich will mir alle Aufgaben vom Modul 319 nochmals durchschauen und aufkommende Fragen notieren, um sie Frau Dillier noch vor den Ferien stellen zu können.
