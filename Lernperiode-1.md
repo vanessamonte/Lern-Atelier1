@@ -51,22 +51,22 @@ Vanessa Monteleone
 5. Ich habe mich sehr nett mit Herrn Lauk unterhalten bei den Einzelngesprächen.
 ### 19.09.2025
 1. Ich will mir alle Aufgaben vom Modul 319 nochmals durchschauen und aufkommende Fragen notieren, um sie Frau Dillier noch vor den Ferien stellen zu können.
-2. ..
-3. ..
-4. ..
+2. Ich möchte beim Modul 319 weiterarbeiten.
+3. Ich möchte beim Modul 431 weiterarbeiten.
+4. Ich möchte das Erklärvideo von Herrn Lauk zum Thema GitHub und wie man es mit VSC synchronisiert anschauen.
 #### Tagesreflexion
-1. ..
-2. ..
-3. ..
-4. ..
+1. Meine Fragen konnten sich durch Klassenkameraden klären lassen.
+2. Ich habe konzentriert weitergearbeitet.
+3. Ich habe konzentriert weitergearbeitet.
+4. Ich habe mir das Video angeschaut und habe kontrolliert, ob ich alles richtig gemacht habe.
 ### 26.09.2025
 1. Ich möchte heute vom Modul 431 Auftrag 1719_Kreativitätstechniken mit meiner Gruppe das Video nach IPERKA planen, das Skript schreiben und auch das Video kreativ drehen.
-2. ..
+2. Ich möchte beim Modul431 
 3. ..
 4. ..
 #### Tagesreflexion
-1. ..
-2. ..
+1. Wir haben das Video um ehrlich zu sein nicht so gut geplant, weil auch alle immer wieder abgelenkt waren. Das Skript konnten wir dann aber schreiben und haben uns, meiner Meinung nach, eine kreative Idee für das Video einfallen lassen. Zum Thema Café To Go haben wir deswegen erstmal einen Kaffe rausgelassen und haben uns dann zusammengesetzt.
+2. 
 3. ..
 4. ..
 5. Für den letzten Tag vor den Ferien konnte ich mich auch entsprechend konzentrieren (also eher mässig).
