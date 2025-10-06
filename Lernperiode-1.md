@@ -60,17 +60,17 @@ Vanessa Monteleone
 4. Ich habe mir das Video angeschaut und habe kontrolliert, ob ich alles richtig gemacht habe.
 ### 26.09.2025
 1. Ich möchte heute vom Modul 431 Auftrag 1719_Kreativitätstechniken mit meiner Gruppe das Video nach IPERKA planen, das Skript schreiben und auch das Video kreativ drehen.
-2. Ich möchte beim Modul431 
-3. ..
-4. ..
+2. Ich möchte beim Modul431 das aufholen, was ich im Unterricht nicht geschafft habe.
+3. Beim Modul 319 
 #### Tagesreflexion
 1. Wir haben das Video um ehrlich zu sein nicht so gut geplant, weil auch alle immer wieder abgelenkt waren. Das Skript konnten wir dann aber schreiben und haben uns, meiner Meinung nach, eine kreative Idee für das Video einfallen lassen. Zum Thema Café To Go haben wir deswegen erstmal einen Kaffe rausgelassen und haben uns dann zusammengesetzt.
-2. 
+2. Ich habe etwas weitergearbeitet.
 3. ..
-4. ..
-5. Für den letzten Tag vor den Ferien konnte ich mich auch entsprechend konzentrieren (also eher mässig).
-### 26.09.2025
+4. Für den letzten Tag vor den Ferien konnte ich mich auch entsprechend konzentrieren (also eher mässig).
+### _ _.10.2025
 1. ..
 2. ..
 3. ..
 4. ..
+*Tagesreflexion*
+jksdfjbwajdhoi
