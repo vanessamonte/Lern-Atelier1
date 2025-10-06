@@ -67,9 +67,13 @@ Vanessa Monteleone
 2. Ich habe etwas weitergearbeitet.
 3. Die For-Loop-Schleife verstehe ich jetzt, doch ich konnte sie noch nicht an einem Beispiel anwenden.
 4. Für den letzten Tag vor den Ferien konnte ich mich auch entsprechend konzentrieren (also eher mässig).
-### _ _.10.2025
+### 22.10.2025
 1. ..
 2. ..
 3. ..
 4. ..
 #### Tagesreflexion
+1. ..
+2. ..
+3. ..
+4. ..
