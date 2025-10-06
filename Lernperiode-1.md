@@ -28,8 +28,7 @@ Vanessa Monteleone
 5. Ich möchte heute eine gute Tagesreflexion erstellen und alle vorgeschlagenen Punkte dafür beachten.
 #### Tagesreflexion
 1. Ich habe die Planung nach der Anleitung in der Powerpoint geschrieben
-2. Ich konnte mit Hilfe von Leonardo und Herrn Lauk VSC mit GitHub synchronisieren, und verstehe Visual Studio jetzt ganz sicher.
-   (zum Merken: zuerst Stagen, dann Committen, dann Synchronisieren.)
+2. Ich konnte mit Hilfe von Leonardo und Herrn Lauk VSC mit GitHub synchronisieren, und verstehe Visual Studio jetzt ganz sicher. (zum Merken: zuerst Stagen, dann Committen, dann Synchronisieren.)
 3. und 4. Ich habe die Hausaufgaben ohne Probleme erledigt.
 5. Ich habe meine Tagesreflexion entsprechend zu den Zielen nummeriert (und ja, diese schreibe ich ja gerade :-)
 ### 05.09.2025
