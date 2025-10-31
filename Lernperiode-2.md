@@ -1,6 +1,6 @@
 # Lernperiode-2
 Vanessa Monteleone
-{22.08.2025} bis {26.09.2025}
+{24.10.2025} bis {19.12.2025}
 ## Grob-Planung
 ### Noten
 - Wir haben noch keine Noten zurückbekommen.
@@ -14,9 +14,9 @@ Vanessa Monteleone
 - Ich will mich in dieser Lernperiode auf die Module 162 und an der Projektarbeit fokussieren und jeweils an diesen weiterarbeiten.
 ## Fein-Planung
 ### 24.10.2025
-1. 
+1. ..
 #### Tagesreflexion
-1. 
-### 31.10.2025 ~_HAPPY HALLOWEEN_
-1. .
+1. ..
+### 31.10.2025 ~~~HAPPY~~ HALLOWEEN
+1. ..
 #### Tagesreflexion
