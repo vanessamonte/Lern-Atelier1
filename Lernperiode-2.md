@@ -17,6 +17,6 @@ Vanessa Monteleone
 1. ..
 #### Tagesreflexion
 1. ..
-### 31.10.2025 ~~~HAPPY~~ HALLOWEEN
+### 31.10.2025 ~~HAPPY~~ HALLOWEEN
 1. ..
 #### Tagesreflexion
