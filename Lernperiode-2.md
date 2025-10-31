@@ -13,7 +13,10 @@ Vanessa Monteleone
 ### Generelle Ziele
 - Ich will mich in dieser Lernperiode auf die Module 162 und an der Projektarbeit fokussieren und jeweils an diesen weiterarbeiten.
 ## Fein-Planung
-### 31.20.2025
+### 24.10.2025
 1. 
 #### Tagesreflexion
 1. 
+### 31.10.2025 ~_HAPPY_ HALLOWEEN
+1. .
+#### Tagesreflexion
