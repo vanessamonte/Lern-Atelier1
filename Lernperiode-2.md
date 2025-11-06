@@ -3,7 +3,8 @@ Vanessa Monteleone
 {24.10.2025} bis {19.12.2025}
 ## Grob-Planung
 ### Noten
-- Wir haben noch keine Noten zurückbekommen.
+- Im Modul 431 habe ich eine 6 bekommen!! yayy
+- Die Prüfung im Modul 319 lief solala, beim Portfolio bin ich aber zuversichtlich.
 ### Veränderungen
 - Ich möchte mich besser konzentrieren und nicht ablenken lassen.
 - Ich möchte die Pausen besser einteilen.
@@ -27,6 +28,7 @@ Vanessa Monteleone
 1. Ich konnte mit Asrin gut zusammenarbeiten und wir haben uns gut abgesprochen für den Austausch.
 2. Das Cheat Sheet habe ich fertig gemacht.
 ### 7.11.2025
-1. ..
+1. Ich möchte im Modul 162 aufholen: Aufträge 13 und 21 fertig machen.
+2. Ich möchte mit Asrin an unserer Projektarbeit weiterarbeiten: Die Informieren-Phase abschliessen: Das PAP, die Anforderungsanalyse aufgrund unserer Absprache mit dem Kunden sind Verbesserungen vorzunehmen.
+3. Ich möchte um Hilfe bei Visual Studio fragen: Kann man "Buttons" oder "Listen" erstellen? Kann man Ergebnisse speichern?
 #### Tagesreflexion
-2. ..
