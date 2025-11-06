@@ -29,6 +29,7 @@ Vanessa Monteleone
 2. Das Cheat Sheet habe ich fertig gemacht.
 ### 7.11.2025
 1. Ich möchte im Modul 162 aufholen: Aufträge 13 und 21 fertig machen.
-2. Ich möchte mit Asrin an unserer Projektarbeit weiterarbeiten: Die Informieren-Phase abschliessen: Das PAP, die Anforderungsanalyse aufgrund unserer Absprache mit dem Kunden sind Verbesserungen vorzunehmen.
-3. Ich möchte um Hilfe bei Visual Studio fragen: Kann man "Buttons" oder "Listen" erstellen? Kann man Ergebnisse speichern?
+2. Ich möchte mit Asrin an unserer Projektarbeit weiterarbeiten: Die Informieren-Phase abschliessen: Anforderungsanalyse, Problem-&Lösungsraum beschreiben, PAP. Aufgrund unserer Absprache mit der Kundin sind Verbesserungen vorzunehmen.
+3. Die Anforderungsanalyse und den PAP wollen wir Noemi Brem auch gleich zur Einsicht schicken, so wie sie es wollte.
+4. Ich möchte um Hilfe bei Visual Studio fragen: Kann man "Buttons" oder "Listen" erstellen? Kann man Ergebnisse speichern?
 #### Tagesreflexion
