@@ -28,8 +28,10 @@ Vanessa Monteleone
 1. Ich konnte mit Asrin gut zusammenarbeiten und wir haben uns gut abgesprochen für den Austausch.
 2. Das Cheat Sheet habe ich fertig gemacht.
 ### 7.11.2025
-1. Ich möchte im Modul 162 aufholen: Aufträge 13 und 21 fertig machen.
+1. Ich möchte im Modul 162 aufholen: Aufträge 12, 13 und 21 fertig machen.
 2. Ich möchte mit Asrin an unserer Projektarbeit weiterarbeiten: Die Informieren-Phase abschliessen: Anforderungsanalyse, Problem-&Lösungsraum beschreiben, PAP. Aufgrund unserer Absprache mit der Kundin sind Verbesserungen vorzunehmen.
 3. Die Anforderungsanalyse und den PAP wollen wir Noemi Brem auch gleich zur Einsicht schicken, so wie sie es wollte.
 4. Ich möchte um Hilfe bei Visual Studio fragen: Kann man "Buttons" oder "Listen" erstellen? Kann man Ergebnisse speichern?
 #### Tagesreflexion
+1. Ich habe die von mir vorgenommenen Aufträge erledigen können.
+2. 
