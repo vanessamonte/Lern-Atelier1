@@ -40,5 +40,8 @@ Vanessa Monteleone
 ### 14.11.2025
 1. Ich möchte am Modeul 162 weiterarbeiten
 2. Ich möchte am Projekt mit Asrin weiterarbeiten und endlich die Probleme mit dem PAP bereinigen.
-3. Ich möchte um Hilfe bei Visual Studio fragen: Kann man "Buttons" oder "Listen" erstellen? Kann man Ergebnisse speichern?
 #### Tagesreflexion
+1. ich konnte am Modul 162 gut weiterarbeiten, brauchte aber oft Hilfe bei den Formeln in Excel.
+
+### adkgk
+3. Ich möchte um Hilfe bei Visual Studio fragen: Kann man "Buttons" oder "Listen" erstellen? Kann man Ergebnisse speichern?
