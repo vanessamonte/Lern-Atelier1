@@ -9,8 +9,8 @@ Vanessa Monteleone
 - Ich möchte mich besser konzentrieren und nicht ablenken lassen.
 - Ich möchte die Pausen besser einteilen.
 ### Projekte / neue Technologien
-1. Ich möchte im Lernatelier jeweils mit Asrin zusammen an unseren ersten Projektarbeit arbeiten. (Projekt 12; Französisch-Konjugationstrainer)
-2. Wenn ich schon weit bin, dann will ich auf C# schon ein kleines Spiel anfangen.
+1. Ich möchte im Lernatelier jeweils mit Asrin zusammen an unserer ersten Projektarbeit arbeiten. (Projekt 12: Französisch-Konjugationstrainer)
+2. Wenn ich schon weit bin, dann will ich auf C# ein kleines Spiel anfangen.
 3. Für die nächste Lernperiode will ich mir jetzt schon ein neues Projekt überlegen. (JavaSkript?)
 ### Generelle Ziele
 - Ich will mich in dieser Lernperiode auf die Module 162 und auf die neue Projektarbeit fokussieren und jeweils an diesen weiterarbeiten.
@@ -34,4 +34,11 @@ Vanessa Monteleone
 4. Ich möchte um Hilfe bei Visual Studio fragen: Kann man "Buttons" oder "Listen" erstellen? Kann man Ergebnisse speichern?
 #### Tagesreflexion
 1. Ich habe die von mir vorgenommenen Aufträge erledigen können.
-2. 
+2. Ich habe mit Asrin an der Projektarbeit weitergearbeitet, aber wir sind kläglich beim PAP gescheitert, weil und Probleme im Programm aufgefallen sind, die wir nicht zu beheben wussten.
+3. Wir konnten dies noch nicht schicken, weil wir das PAP noch nicht fertig machen konnten. Wenn wir dies dann fertig schaffen und schicken, dann möchten wir Frau Brem auch noch freundlich daran erinnern, dass sie uns noch bitte die Verbenliste schicken kann.
+4. Ich konnte die Fragen nicht stellen, weil wir mit dem PAP zu sehr beschäftigt waren und ehrlichgesagt hatten wir einen kurzen Nervenzusammenbruch und wollten nicht mehr:(
+### 14.11.2025
+1. Ich möchte am Modeul 162 weiterarbeiten
+2. Ich möchte am Projekt mit Asrin weiterarbeiten und endlich die Probleme mit dem PAP bereinigen.
+3. Ich möchte um Hilfe bei Visual Studio fragen: Kann man "Buttons" oder "Listen" erstellen? Kann man Ergebnisse speichern?
+#### Tagesreflexion
