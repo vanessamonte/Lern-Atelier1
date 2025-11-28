@@ -42,6 +42,13 @@ Vanessa Monteleone
 2. Ich möchte am Projekt mit Asrin weiterarbeiten und endlich die Probleme mit dem PAP bereinigen.
 #### Tagesreflexion
 1. ich konnte am Modul 162 gut weiterarbeiten, brauchte aber oft Hilfe bei den Formeln in Excel.
-
-### adkgk
-3. Ich möchte um Hilfe bei Visual Studio fragen: Kann man "Buttons" oder "Listen" erstellen? Kann man Ergebnisse speichern?
+2. Ich habe am Projekt weitergearbeitet, nur wir haben uns mehr auf den Code als auf den PAP konzentriert. Es erschien uns einfacher, da wir uns nicht genau vorstellen konnten und es auf Visual Studio jeweils direkt ausprobieren konnten.
+### 21.11.2025
+1. Ich möchte um Hilfe bei Visual Studio fragen: Kann man "Buttons" oder "Listen" erstellen? Kann man Ergebnisse speichern?
+2. Ich möchte am Code unseres Projektes mit Asrin weiterarbeiten.
+#### Tagesreflexion
+1. Für diese Funktionen müsste man Html oder eine andere Programmiersprache benutzen, soweit ich jetzt weiss. Aber ich habe mit Asrin und mit Hilfe von ihrem Cousin herausgefunden, wie man eine Liste speichern kann. Wir haben das gebraucht bei unserem Code für die falsch beantworteten Fragen, sodass sie am Ende in der selben Reihenfolge nochmals abgefragt werden.
+2. Wir haben am Code weitergearbeitet und sind gut vorangekommen.
+### 28.11.2025
+1. Asrin und ich haben das Projekt am Mittwoch soweit abgeschlossen, heute möchte ich noch die Präsentation mit ihr erstellen und das PAP fertig machen, weil wir dieses auch bei der Präsi am Mittwoch zeigen wollen.
+2. Ich möchte am Modul 162 weiterarbeiten, weil ich nicht so weit gekommen bin am Dienstag.
