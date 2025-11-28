@@ -52,4 +52,5 @@ Vanessa Monteleone
 ### 28.11.2025
 1. Asrin und ich haben den Code am Mittwoch abgeschlossen, heute möchte ich noch die Präsentation mit ihr erstellen.
 2. und das PAP dazu fertig machen, weil wir dieses auch bei der Präsi am Mittwoch zeigen wollen.
-3. Ich möchte am Modul 162 weiterarbeiten, weil ich nicht so weit gekommen bin am Dienstag.
+3. Ich möchte eine Verbenliste zu unserem Code vom Projektauftrag erstellen, die sich unsere Kundin gewünscht hat.
+4. Ich möchte am Modul 162 weiterarbeiten, weil ich nicht so weit gekommen bin am Dienstag.
