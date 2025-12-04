@@ -9,7 +9,7 @@ Vanessa Monteleone
 - Ich möchte mich besser konzentrieren und nicht ablenken lassen.
 - Ich möchte die Pausen besser einteilen.
 ### Projekte / neue Technologien
-1. Ich möchte im Lernatelier jeweils mit Asrin zusammen an unserer ersten Projektarbeit arbeiten. (Projekt 12: Französisch-Konjugationstrainer)
+1. Ich möchte im Lernatelier jeweils mit Asrin zusammen an unserer ersten Projektarbeit arbeiten. (Projekt 12: Französisch-Konjugationstrainer) --> Abgabe 2.Dez.
 2. Wenn ich schon weit bin, dann will ich auf C# ein kleines Spiel anfangen.
 3. Für die nächste Lernperiode will ich mir jetzt schon ein neues Projekt überlegen. (JavaSkript?)
 ### Generelle Ziele
