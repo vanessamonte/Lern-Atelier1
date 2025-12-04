@@ -16,5 +16,5 @@ Vanessa Monteleone
 ### Generelle Ziele
 - T
 ## Fein-Planung
-### ..2025
+### ..2026 ~ HAPPY NEW YEAR!!
 1. aloha
