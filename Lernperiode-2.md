@@ -53,4 +53,25 @@ Vanessa Monteleone
 1. Asrin und ich haben den Code am Mittwoch abgeschlossen, heute möchte ich noch die Präsentation mit ihr erstellen.
 2. und das PAP dazu fertig machen, weil wir dieses auch bei der Präsi am Mittwoch zeigen wollen.
 3. Ich möchte eine Verbenliste zu unserem Code vom Projektauftrag erstellen, die sich unsere Kundin gewünscht hat.
-4. Ich möchte am Modul 162 weiterarbeiten, weil ich nicht so weit gekommen bin am Dienstag.
+#### Tagesreflexion
+1. Wir haben die Powerpoint erstellt, sind aber noch nicht fertig geworden. Dazu haben wir die Aufgaben aufgeteilt und wir sollten es gut fertig schaffen bis am Dienstag.
+2. Wir haben das PAP zusammen fertig gemacht. Wir mussten vieles löschen, da wir wirklich vor dem Programmieren ja schon eine grobe Vorstellung hatten, diese aber dann noch detaillierter im Code ausführen mussten und auf noch mehr Dinge achten mussten.
+3. Die Verbenliste habe ich erstellt, habe sogar noch mehr Verben gefunden und sie im Code noch ergänzt.
+### 5.12.2025
+1. Ich möchte am Modul 162 weiterarbeiten, weil ich nicht so weit gekommen bin am Dienstag. Konkret heisst das:
+2. "Konzeptionelles und logisches Datenmodell" fertig bearbeiten (ich habe schon angefangen)
+3. "Zwischentabellen"
+4. "Datenschutz_Modell"
+5. Wahrscheinlich werde ich diese am Wochenende machen müssen: Expertenziele
+#### Tagesreflexion
+1. l
+2. ä
+3. c
+4. k
+5. böbbijey
+### 11.12.2025
+1. Ich möchte die letzten Rätsel vom Coding-Adventskalender lösen
+2. Portfolio Statistik M162
+3. für Test M162 Unterlagen vorbereiten in guten übersichtlichen Ordnern
+4. für Test M162 lernen
+5. M117 Abgaben
