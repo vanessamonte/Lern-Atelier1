@@ -3,7 +3,9 @@ Vanessa Monteleone
 {} bis {}
 ## Grob-Planung
 ### Noten
-- T
+- Ich hatte im Modul 431 (Abgaben) eine _6_
+- Ich hatte im Modul 319 (LB mit OBA) eine _5.5_
+- Unser erster Projektauftrag nach M319 ist abgeschlossen. Note?
 ### Veränderungen
 - Ich möchte mich besser konzentrieren und nicht ablenken lassen.
 - Ich möchte die Pausen besser einteilen.
