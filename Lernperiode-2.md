@@ -59,7 +59,7 @@ Vanessa Monteleone
 3. Die Verbenliste habe ich erstellt, habe sogar noch mehr Verben gefunden und sie im Code noch ergänzt.
 ### 5.12.2025
 1. Ich möchte am Modul 162 weiterarbeiten, weil ich nicht so weit gekommen bin am Dienstag. Konkret heisst das:
-2. "Konzeptionelles und logisches Datenmodell" fertig bearbeiten (ich habe schon angefangen)
+2. "Konzeptionelles und logisches Datenmodell 2_Erweitert" fertig bearbeiten (ich habe schon angefangen)
 3. "Zwischentabellen"
 4. "Datenschutz_Modell"
 5. Wahrscheinlich werde ich diese am Wochenende machen müssen: Expertenziele
