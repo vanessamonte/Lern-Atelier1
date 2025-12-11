@@ -21,7 +21,7 @@ Vanessa Monteleone
 #### Tagesreflexion
 1. Wir haben das Video erfolgreich gedreht und auf Moodle hochgeladen. Wir haben sehr gut in der Gruppe gearbeitet, jedoch haben wir viel Zeit dafür gebraucht. Doch das war auch klar, weil wir alles (auch das ganze Skript) nochmal schreiben mussten.
 2. Ich habe die Dokumentationen richtig geschrieben und auf Moodle abgegeben. Thomi Lauener hat mir dabei geholfen.
-### 31.10.2025 ~ ~~HAPPY~~ HALLOWEEN UAHAHAHAHAHA AVADA KIDABRA
+### 31.10.2025 _~ ~~HAPPY~~ HALLOWEEN UAHAHAHAHAHA AVADA KIDABRA_
 1. Ich möchte heute mit Asrin die Informationsphase zu unserem Projektauftrag abschliessen und uns für das Gespräch am Montag mit unserer Kundin (Noemi Brem) vorbereiten.
 2. Ich möchte das Cheat Sheet für Mission 319 erstellen, da wir nächsten Mittwoch schon den Test haben.
 #### Tagesreflexion
@@ -80,6 +80,7 @@ Vanessa Monteleone
 2. Ich habe mir eine Statistik zum Thema ... ausgesucht. Das Grundgerüst und die Gestaltung des Portfolios habe ich schon entworfen.
 3. Ich habe alle Expertenziele zu M162 noch gelöst.
 4. Ich habe die Unterlagen alle auf OneNote getan, damit sie schneller zu öffnen sind.
+5. Im M117 bin ich nicht sehr weit gekommen, weil ich mich auf das M162 und die bevorstehende Prüfunge nächste Woche konzentriert habe. Ich habe nur einen Auftrag dazu gelöst.
 ### 19.12.2025
 1. Ich möchte am letzten Tag vor den Weihnachtsferien so konzentriert wie möglich arbeiten, und meine Pausen einteilen, also lieber 3 mal 15min Pause anstatt herauszögern und dann gleich eine ganze Stunde Pause machen.
 2. Ich möchte mit meinen Freunden AMONG US in Real-Live spielen :)
