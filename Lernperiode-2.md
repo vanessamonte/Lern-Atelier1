@@ -21,7 +21,7 @@ Vanessa Monteleone
 #### Tagesreflexion
 1. Wir haben das Video erfolgreich gedreht und auf Moodle hochgeladen. Wir haben sehr gut in der Gruppe gearbeitet, jedoch haben wir viel Zeit dafür gebraucht. Doch das war auch klar, weil wir alles (auch das ganze Skript) nochmal schreiben mussten.
 2. Ich habe die Dokumentationen richtig geschrieben und auf Moodle abgegeben. Thomi Lauener hat mir dabei geholfen.
-### 31.10.2025 ~ _~~HAPPY~~ HALLOWEEN UAHAHAHAHAHA AVADA KIDABRA_
+### 31.10.2025 ~ _~~HAPPY~~ HALLOWEEN UAHAHAHAHA AVADA KIDABRA_
 1. Ich möchte heute mit Asrin die Informationsphase zu unserem Projektauftrag abschliessen und uns für das Gespräch am Montag mit unserer Kundin (Noemi Brem) vorbereiten.
 2. Ich möchte das Cheat Sheet für Mission 319 erstellen, da wir nächsten Mittwoch schon den Test haben.
 #### Tagesreflexion
@@ -89,5 +89,5 @@ Vanessa Monteleone
 1. Ich habe
 2. judihuii
 3. Anzahl geschaffter Aufträge:
-_Schöne Weihnachten und ein frohes neues Jahr!!_
-_Wir sehen uns nächstes Jahr wieder!_
+- _Schöne Weihnachten und ein frohes neues Jahr!!_
+  _Wir sehen uns nächstes Jahr wieder!_
