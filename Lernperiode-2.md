@@ -64,14 +64,29 @@ Vanessa Monteleone
 4. "Datenschutz_Modell"
 5. Wahrscheinlich werde ich diese am Wochenende machen müssen: Expertenziele
 #### Tagesreflexion
-1. l
-2. ä
-3. c
-4. k
-5. böbbijey
+1. Ich habe am Modul 162 weitergearbeitet, jedoch mit etwas zu wenig Konzentration leider. Anfangs war ich sehr produktiv, aber das hat im Verlauf vom Nachmittag stark nachgelassen.
+2. Fertig geschafft
+3. Geschafft und verstanden
+4. Es hat sich herausgestellt, dass ich diesen Auftrag versehentlich schon einmal gelöst habe.
+5. Ja, das ist der Fall. Am Wochende werde ich noch zu tun haben.
 ### 12.12.2025
-1. Ich möchte die letzten Rätsel vom Coding-Adventskalender lösen
-2. Portfolio Statistik M162
-3. für Test M162 Unterlagen vorbereiten in guten übersichtlichen Ordnern
-4. für Test M162 lernen
-5. M117 Abgaben
+1. Ich möchte das letzte Rätsel vom Coding-Adventskalender lösen
+2. Ich möchte eine Statistik auf geo.admin für das Portfolio von M162 aussuchen.
+3. Ich möchte die letzten Aufträge vom Modul 162 abschliessen.
+4. Ich möchte die Unterlagen für den Test im M162 vorbereiten und gut übersichtlich in Ordner verpacken.
+5. Ich möchte beim Modul 117 alle Abgaben zu HZ 1 machen. Im Unterricht hatten wir ein Problem wegen der Installation von Microsoft Visio, weswegen wir den halben Vormittag verloren haben und ich bin jetzt sehr hintendrein.
+#### Tagesreflexion
+1. Ich habe es nicht geschafft, das Rätsel zu lösen.
+2. Ich habe mir eine Statistik zum Thema ... ausgesucht. Das Grundgerüst und die Gestaltung des Portfolios habe ich schon entworfen.
+3. Ich habe alle Expertenziele zu M162 noch gelöst.
+4. Ich habe die Unterlagen alle auf OneNote getan, damit sie schneller zu öffnen sind.
+### 19.12.2025
+1. Ich möchte am letzten Tag vor den Weihnachtsferien so konzentriert wie möglich arbeiten, und meine Pausen einteilen, also lieber 3 mal 15min Pause anstatt herauszögern und dann gleich eine ganze Stunde Pause machen.
+2. Ich möchte mit meinen Freunden AMONG US in Real-Live spielen :)
+3. Ich möchte so viele Abgaben wie möglich im Modul 117 schaffen. Die Anzahl definiere ich nicht, damit ich mich nicht zu sehr stresse, denn endlich treffen die ewig erträumten Ferien ein B)
+#### Tagesreflexion
+1. Ich habe
+2. judihuii
+3. Anzahl geschaffter Aufträge:
+_Schöne Weihnachten und ein frohes neues Jahr!!_
+_Wir sehen uns nächstes Jahr wieder!_
