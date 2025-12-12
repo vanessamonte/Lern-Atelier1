@@ -81,7 +81,7 @@ Vanessa Monteleone
 3. Ich habe alle Expertenziele zu M162 noch gelöst.
 4. Ich habe die Unterlagen alle auf OneNote getan, damit sie schneller zu öffnen sind.
 5. Ich habe mich auf das M162 und die bevorstehende Prüfunge nächste Woche konzentriert und habe keinen Auftrag zu M117 gelöst.
-6. Wir hatten eine Session von Herrn Lauk über GitHub, Git, GitLab. Ich habe viel Neues über dieses Programm gelernt, auf dem ich gerade schreibe.
+6. Wir hatten eine Session von Herrn Lauk über GitHub, Git, GitLab. Ich habe viel Neues über dieses Programm gelernt, auf dem ich gerade schreibe. Ich muss ehrlich sagen, dass ich nicht alles verstanden habe, ich muss die Folien nochmals durchschauen und die Befehle lernen. Aber wie schreibt man genau in der Kommandozeile?
 ### 19.12.2025
 1. Ich möchte am letzten Tag vor den Weihnachtsferien so konzentriert wie möglich arbeiten, und meine Pausen einteilen, also lieber 3 mal 15min Pause anstatt herauszögern und dann gleich eine ganze Stunde Pause machen.
 2. Ich möchte mit meinen Freunden AMONG US in Real-Live spielen :)
