@@ -4,7 +4,8 @@ Vanessa Monteleone
 ## Grob-Planung
 ### Noten
 - Im Modul 431 habe ich eine 6 bekommen!! yayy
-- Die Prüfung im Modul 319 lief solala, beim Portfolio bin ich aber zuversichtlich.
+- Die Prüfung im Modul 319 lief solala, beim Portfolio bin ich aber zuversichtlich. (Note: _5.5_)
+- Die Prüfung zum Modul 162 ist abgeschlossen, mal schauen wie es rauskommen wird...
 ### Veränderungen
 - Ich möchte mich besser konzentrieren und nicht ablenken lassen.
 - Ich möchte die Pausen besser einteilen.
@@ -87,8 +88,8 @@ Vanessa Monteleone
 2. Ich möchte mit meinen Freunden AMONG US in Real-Live spielen :)
 3. Ich möchte so viele Abgaben wie möglich im Modul 117 schaffen. Die Anzahl definiere ich nicht, damit ich mich nicht zu sehr stresse, denn endlich treffen die ewig erträumten Ferien ein B)
 #### Tagesreflexion
-1. Ich habe
-2. judihuii
-3. Anzahl geschaffter Aufträge:
+1. Ich habe sehr unkonzentriert gearbeitet und dafür wenig Pause gemacht.
+2. Das hat leider nicht geklappt, denn wir alle haben unterschiedlich Pause gemacht.
+3. Anzahl geschaffter Aufträge: 2
 - _Schöne Weihnachten und ein frohes neues Jahr!!_
   _Wir sehen uns nächstes Jahr wieder!_
