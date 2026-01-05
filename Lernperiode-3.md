@@ -22,3 +22,6 @@ Vanessa Monteleone
 ### 09.01.2026 _~HAPPY NEW YEAR!!_
 1. Ich möchte an den Abgaben für M117 weiterarbeiten, sodass ich das ganze Handlungsziel 2 diesen Mittwoch abgeben kann.
 2. Ich möchte auf ArcGIS mehr erforschen. (Es geht etwas in Geografie hinein, hat dennoch mit Informatik zu tun und wir brauchen diese Website für unsere Storymap.)
+#### Tagesreflexion
+1. Ich habe ...
+2. ...
