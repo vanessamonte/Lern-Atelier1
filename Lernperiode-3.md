@@ -39,3 +39,32 @@ Vanessa Monteleone
 1. .
 #### Tagesreflexion
 1. .
+##### _Sportferieenn_
+### 20.02.2026
+1. .
+#### Tagesreflección
+1. .
+### 27.02.2026
+1. .
+#### Tagesreflección
+1. .
+### 06.03.2026
+1. .
+#### Tagesreflección
+1. .
+### 13.03.2026
+1. .
+#### Tagethreflección
+1. .
+### 20.03.2026
+1. .
+#### Tagesreflección
+1. .
+### 27.02.2026
+1. .
+#### Tagesreflección
+1. .
+### 03.04.2026
+KARFREITAG - FREI
+##### _Frühlingsferien_
+Lernperiode3 Ende !!!
