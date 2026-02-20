@@ -6,7 +6,7 @@ Vanessa Monteleone
 - Ich hatte im Modul 431 (Abgaben) eine _6_
 - Ich hatte im Modul 319 (LB mit OBA) eine _5.5_ (Portfolio 5/6)
 - Unser erster Projektauftrag nach M319 ist abgeschlossen. Note?
-- Ich hatte im Modul 162 (LB mit OBA) eine _0_ (Portfolio 6/6)
+- Ich hatte im Modul 162 (LB mit OBA) eine _5.5_ (Portfolio 6/6)
 - Modul 117 (Abgaben) steht bevor.
 ### Veränderungen
 - Ich möchte mich besser konzentrieren und nicht ablenken lassen.
@@ -19,7 +19,8 @@ Vanessa Monteleone
 - Abgaben M117 aufholen (Modul mit SEHR vielen Abgaben) + Gruppenarbeit zu Netzwerkdings mit Dokumentation
 - Konzentriert und schneller arbeiten.
 ## Fein-Planung
-### 09.01.2026 _~HAPPY NEW YEAR!!_
+### 09.01.2026
+_~HAPPY NEW YEAR!!_
 1. Ich möchte an den Abgaben für M117 weiterarbeiten, sodass ich das ganze Handlungsziel 2 diesen Mittwoch abgeben kann.
 2. Ich möchte auf ArcGIS mehr erforschen. (Es geht etwas in Geografie hinein, hat dennoch mit Informatik zu tun und wir brauchen diese Website für unsere Storymap.)
 #### Tagesreflexion
@@ -65,6 +66,6 @@ Vanessa Monteleone
 #### Tagesreflección
 1. .
 ### 03.04.2026
-KARFREITAG - FREI
-##### _Frühlingsferien_
-Lernperiode3 Ende !!!
+>> _*KARFREITAG - FREI*_
+>> _Frühlingsferien_
+>> Lernperiode3 Ende !!!_
