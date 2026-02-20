@@ -66,8 +66,6 @@ _~HAPPY NEW YEAR!!_
 #### Tagesreflección
 1. .
 ### 03.04.2026
->> _*KARFREITAG - FREI*_
-
-Frühlingsferien
-
+_*KARFREITAG - FREI*_
+> Frühlingsferien
 Lernperiode3 Ende !!!_
