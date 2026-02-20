@@ -67,5 +67,5 @@ _~HAPPY NEW YEAR!!_
 1. .
 ### 03.04.2026
 _KARFREITAG - FREI_
-> Frühlingsferien
+##### _Frühlingsferien_
 _Lernperiode3 Ende !!!_
