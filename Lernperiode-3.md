@@ -5,9 +5,10 @@ Vanessa Monteleone
 ### Noten
 - Ich hatte im Modul 431 (Abgaben) eine _6_
 - Ich hatte im Modul 319 (LB mit OBA) eine _5.5_ (Portfolio 5/6)
-- Unser erster Projektauftrag nach M319 ist abgeschlossen. Note?
-- Ich hatte im Modul 162 (LB mit OBA) eine _0_ (Portfolio 6/6)
+- Unser erster Projektauftrag nach M319 ist abgeschlossen. ~~Note?~~
+- Ich hatte im Modul 162 (LB mit OBA) eine _5.5_ (Portfolio 6/6)
 - Modul 117 (Abgaben) steht bevor.
+- Modul 164 (LB-Projekt) steht bevor.
 ### Veränderungen
 - Ich möchte mich besser konzentrieren und nicht ablenken lassen.
 - Ich möchte die Pausen besser einteilen.
@@ -37,30 +38,40 @@ Vanessa Monteleone
 2. Ich habe im M164 weiterarbeiten können und habe alles verstanden mit Hilfe meiner Klassenkameraden.
 ### 30.01.2026
 1. .
-#### Tagesreflexion
-1. .
 ##### _Sportferieenn_
 ### 20.02.2026
 1. .
-#### Tagesreflección
-1. .
 ### 27.02.2026
 1. .
+### 06.03.2026
+1. .
+### 13.03.2026
+1. ich habe vergessen was ich da gemacht habe, sorry:()
+### 20.03.2026
+1. Ich möchte am Modul 117 weiterarbeiten.
+2. Ich möchte für die Dokumentation des Netzwerklabors mit meiner Gruppe die letzten Angelegenheiten besprechen.
+#### Tagesreflección
+1. Ich habe den zweitletzten Auftrag vom Modul 117 gelöst, ich muss den letzten noch am Mittwoch am Abgabetag erledigen.
+2. Die Dokumentation ist vorbereitet und alle Konfigurationen sind vorhanden. Am Mittwoch müssen wir uns die Testdokumentation vornehmen.
+### 27.02.2026
+1. Ich möchte heute an meinem LB-Projekt zum M164 arbeiten und es sogar möglichst fertig schaffen.
+2. Ich möchte die Pausen gut einteilen und jeweils raus gehen, das schöne Wetter geniessen und frische Luft schnappen.
 #### Tagesreflección
 1. .
+2. .
 ### 06.03.2026
 1. .
 #### Tagesreflección
 1. .
 ### 13.03.2026
 1. .
-#### Tagethreflección
+#### Tagesreflección
 1. .
 ### 20.03.2026
 1. .
 #### Tagesreflección
 1. .
-### 27.02.2026
+### 27.03.2026
 1. .
 #### Tagesreflección
 1. .
