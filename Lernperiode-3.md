@@ -67,7 +67,7 @@ Und am Dienstag haben wir auch den zweiten Kurztest, der 10% zählt zurückbekom
 SIX SEVEN
 2. Ich möchte mehr Features in Discord kennenlernen.
 3. Ich möchte ein Video über Python anschauen, damit ich meiner besten Freundin in Informatik helfen kann.
-4. Ich möchte mir bei Visual Studio Code diese Haustiere anschaffen :)
+4. Ich möchte mir bei Visual Studio Code diese Haustiere anschaffen (:)
 #### Tagesreflección
 1. .
 ### 13.03.2026
