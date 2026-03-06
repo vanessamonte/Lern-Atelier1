@@ -63,16 +63,19 @@ THIRTY-EIGHT
 Und am Dienstag haben wir auch den zweiten Kurztest, der 10% zählt zurückbekommen, und ich habe 6/6 Punkten!! Yayy! Ich bin froh, dass es so gut gelaufen ist, besonders nach dem ersten Kurztest, bei dem ich 3/6 Punkten hatte:( aber passiert :).
 2. Wir sind raus gegangen und sind Runden gelaufen in unserer Pause und hatten viel Spass.
 ### 06.03.2026
-1. Ich will am neuen Modul 187 weiterarbeiten. So weit, dass ich auch schon den ersten Auftrag von Day2 schaffe, damit ich einen Vorsprung habe. (also 3 Aufträge insgesamt). --> ich habe mich doch entschieden, dass ich das am Wochenende mache!!
+1. Ich will am neuen Modul 187 weiterarbeiten. So weit, dass ich auch schon den ersten Auftrag von Day2 schaffe, damit ich einen Vorsprung habe. (also 3 Aufträge insgesamt).
 SIX SEVEN
 2. Ich möchte mehr Features in Discord kennenlernen.
 3. Ich möchte ein Video über Python anschauen, damit ich meiner besten Freundin in Informatik helfen kann.
 4. Ich möchte mir bei Visual Studio Code diese Haustiere anschaffen (:)
-5. HEUTE ARBEITE ICH AN EINER NEUEN PROGRAMMIERSPRACHE
 #### Tagesreflección
-1. .
+1. Ich habe heute versucht, am M187 weiterzuarbeiten, bin dann aber zum Entschluss gekommen, dass ich das Zuhause viel konzentrierter machen könnte am Wochenende. Deswegen habe ich mich entschieden, zukünftig als neue Sprache JavaScript selbständig zu lernen. Dafür habe ich heute bereits eine Serie von Videos für nächstes Mal herausgesucht.
+2. Ich habe einen neuen Server in Discord erstellt, eine App in einem neuen Kanal hinzugefügt und die Berechtigungen verteilt.
+3. Ich habe das Python Video angeschaut und jetzt bisschen mehr verstanden.
+4. Thomi Lauenerrrr hat mir geholfen, die süssen Tiere auf Visual Studio Code zu erschaffen.
 ### 13.03.2026
-1. .
+1. Ich will alle Folgen vom JavaScript-Tutorial auf https://www.youtube.com/watch?v=1y0X1s4csWI&list=PL_pqkvxZ6ho04nTPbDP8alBt73COIgQKd anschauen.
+2. Ich möchte auf W3 Schools dann anschliessend Aufgaben dazu lösen.
 #### Tagesreflección
 1. .
 ### 20.03.2026
