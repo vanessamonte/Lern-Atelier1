@@ -35,7 +35,6 @@ _~HAPPY NEW YEAR!!_
 1. Ich möchte mit meiner Gruppe noch alle Vorbereitungen für das Netzwerklabor am Mittwoch besprechen.
 2. Ich möchte im Modul 164 weiterarbeiten und die Aufträge aufholen.
 #### Tagesreflexion
-THIRTY-EIGHT
 1. Die Besprechung hat sehr gut funktioniert und wir fühlen uns sehr sicher für das Netzwerklabor!
 2. Ich habe im M164 weiterarbeiten können und habe alles verstanden mit Hilfe meiner Klassenkameraden.
 ### 30.01.2026
@@ -59,15 +58,10 @@ THIRTY-EIGHT
 1. Ich möchte heute an meinem LB-Projekt zum M164 arbeiten und es sogar möglichst fertig schaffen.
 2. Ich möchte die Pausen gut einteilen und jeweils raus gehen, das schöne Wetter geniessen und frische Luft schnappen.
 #### Tagesreflección
-1. Ich habe am Projekt gut weitergearbeitet und habe es am Dienstag in der Zeit abgegeben. Ich habe ein ziemlich gutes Gefühl dabei.
-Und am Dienstag haben wir auch den zweiten Kurztest, der 10% zählt zurückbekommen, und ich habe 6/6 Punkten!! Yayy! Ich bin froh, dass es so gut gelaufen ist, besonders nach dem ersten Kurztest, bei dem ich 3/6 Punkten hatte:( aber passiert :).
-2. Wir sind raus gegangen und sind Runden gelaufen in unserer Pause und hatten viel Spass.
+1. .
+2. .
 ### 06.03.2026
-1. Ich will am neuen Modul 187 weiterarbeiten. So weit, dass ich auch schon den ersten Auftrag von Day2 schaffe, damit ich einen Vorsprung habe. (also 3 Aufträge insgesamt).
-SIX SEVEN
-2. Ich möchte mehr Features in Discord kennenlernen.
-3. Ich möchte ein Video über Python anschauen, damit ich meiner besten Freundin in Informatik helfen kann.
-4. Ich möchte mir bei Visual Studio Code diese Haustiere anschaffen (:)
+1. .
 #### Tagesreflección
 1. .
 ### 13.03.2026
