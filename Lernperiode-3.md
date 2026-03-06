@@ -1,0 +1,87 @@
+# Lernperiode-3
+Vanessa Monteleone
+{09.01.2026} bis {30.01.2026}
+## Grob-Planung
+### Noten
+- Ich hatte im Modul 431 (Abgaben) eine _6_
+- Ich hatte im Modul 319 (LB mit OBA) eine _5.5_ (Portfolio 5/6)
+- Unser erster Projektauftrag nach M319 ist abgeschlossen. ~~Note?~~
+- Ich hatte im Modul 162 (LB mit OBA) eine _5.5_ (Portfolio 6/6)
+- Modul 117 (Abgaben) steht bevor.
+- Modul 164 (LB-Projekt) steht bevor.
+### Veränderungen
+- Ich möchte mich besser konzentrieren und nicht ablenken lassen.
+- Ich möchte die Pausen besser einteilen.
+### Projekte / neue Technologien
+1. Ich würde mich gerne zu HTML und JavaSkript informieren und diese Programmiersprachen etwas lernen. Vielleicht auch CSS?
+2. Ich würde gerne mehr Funktionen auf Visual Studio mit C# herausfinden: Schriftfarbe, Daten speichern, Textdateien einlesen/speichern, Crypto (Caesar-Verschlüsselung).
+3. Abgaben M117 aufholen (Modul mit SEHR vielen Abgaben) + Gruppenarbeit zu Netzwerkdings mit Dokumentation
+### Generelle Ziele
+- Abgaben M117 aufholen (Modul mit SEHR vielen Abgaben) + Gruppenarbeit zu Netzwerkdings mit Dokumentation
+- Konzentriert und schneller arbeiten.
+## Fein-Planung
+### 09.01.2026
+_~HAPPY NEW YEAR!!_
+1. Ich möchte an den Abgaben für M117 weiterarbeiten, sodass ich das ganze Handlungsziel 2 diesen Mittwoch abgeben kann.
+2. Ich möchte auf ArcGIS mehr erforschen. (Es geht etwas in Geografie hinein, hat dennoch mit Informatik zu tun und wir brauchen diese Website für unsere Storymap.)
+#### Tagesreflexion
+1. Ich habe nicht das ganze HZ 2 fertig geschafft, aber mir fehlen nur noch zwei Gruppenarbeiten zu erledigen, und diese kann ich noch am Mittwoch erledigen.
+2. Ich habe mich kurz auf ArcGIS umgeschaut und verschiedene Layers und einen Massstab eingebaut.
+### 16.01.2026
+1. Ich muss heute unser Mathe-Video abgeben!!!
+#### Tagesreflexion
+1. Wir haben zu spät abgegeben! Es gab eine kleine Krisee (Herr Lauk weiss wohl sehr gut darüber bescheid). Wir haben alles in der letzten Minute gemacht und das kam natürlich nicht gut raus. Die Gleichung haben wir erst einen Tag vorher lösen können und wir hatten noch die Storymap zu erledigen...
+### 23.01.2026
+1. Ich möchte mit meiner Gruppe noch alle Vorbereitungen für das Netzwerklabor am Mittwoch besprechen.
+2. Ich möchte im Modul 164 weiterarbeiten und die Aufträge aufholen.
+#### Tagesreflexion
+THIRTY-EIGHT
+1. Die Besprechung hat sehr gut funktioniert und wir fühlen uns sehr sicher für das Netzwerklabor!
+2. Ich habe im M164 weiterarbeiten können und habe alles verstanden mit Hilfe meiner Klassenkameraden.
+### 30.01.2026
+1. .
+##### _Sportferieenn_
+### 20.02.2026
+1. .
+### 27.02.2026
+1. .
+### 06.03.2026
+1. .
+### 13.03.2026
+1. ich habe vergessen was ich da gemacht habe, sorry:()
+### 20.03.2026
+1. Ich möchte am Modul 117 weiterarbeiten.
+2. Ich möchte für die Dokumentation des Netzwerklabors mit meiner Gruppe die letzten Angelegenheiten besprechen.
+#### Tagesreflección
+1. Ich habe den zweitletzten Auftrag vom Modul 117 gelöst, ich muss den letzten noch am Mittwoch am Abgabetag erledigen.
+2. Die Dokumentation ist vorbereitet und alle Konfigurationen sind vorhanden. Am Mittwoch müssen wir uns die Testdokumentation vornehmen.
+### 27.02.2026
+1. Ich möchte heute an meinem LB-Projekt zum M164 arbeiten und es sogar möglichst fertig schaffen.
+2. Ich möchte die Pausen gut einteilen und jeweils raus gehen, das schöne Wetter geniessen und frische Luft schnappen.
+#### Tagesreflección
+1. Ich habe am Projekt gut weitergearbeitet und habe es am Dienstag in der Zeit abgegeben. Ich habe ein ziemlich gutes Gefühl dabei.
+Und am Dienstag haben wir auch den zweiten Kurztest, der 10% zählt zurückbekommen, und ich habe 6/6 Punkten!! Yayy! Ich bin froh, dass es so gut gelaufen ist, besonders nach dem ersten Kurztest, bei dem ich 3/6 Punkten hatte:( aber passiert :).
+2. Wir sind raus gegangen und sind Runden gelaufen in unserer Pause und hatten viel Spass.
+### 06.03.2026
+1. Ich will am neuen Modul 187 weiterarbeiten. So weit, dass ich auch schon den ersten Auftrag von Day2 schaffe, damit ich einen Vorsprung habe. (also 3 Aufträge insgesamt).
+SIX SEVEN
+2. Ich möchte mehr Features in Discord kennenlernen.
+3. Ich möchte ein Video über Python anschauen, damit ich meiner besten Freundin in Informatik helfen kann.
+#### Tagesreflección
+1. .
+### 13.03.2026
+1. .
+#### Tagesreflección
+1. .
+### 20.03.2026
+1. .
+#### Tagesreflección
+1. .
+### 27.03.2026
+1. .
+#### Tagesreflección
+1. .
+### 03.04.2026
+_KARFREITAG - FREI_
+##### _Frühlingsferien_
+_Lernperiode3 Ende !!!_
