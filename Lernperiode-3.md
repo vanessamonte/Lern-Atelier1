@@ -63,11 +63,12 @@ THIRTY-EIGHT
 Und am Dienstag haben wir auch den zweiten Kurztest, der 10% zählt zurückbekommen, und ich habe 6/6 Punkten!! Yayy! Ich bin froh, dass es so gut gelaufen ist, besonders nach dem ersten Kurztest, bei dem ich 3/6 Punkten hatte:( aber passiert :).
 2. Wir sind raus gegangen und sind Runden gelaufen in unserer Pause und hatten viel Spass.
 ### 06.03.2026
-1. Ich will am neuen Modul 187 weiterarbeiten. So weit, dass ich auch schon den ersten Auftrag von Day2 schaffe, damit ich einen Vorsprung habe. (also 3 Aufträge insgesamt).
+1. Ich will am neuen Modul 187 weiterarbeiten. So weit, dass ich auch schon den ersten Auftrag von Day2 schaffe, damit ich einen Vorsprung habe. (also 3 Aufträge insgesamt). --> ich habe mich doch entschieden, dass ich das am Wochenende mache!!
 SIX SEVEN
 2. Ich möchte mehr Features in Discord kennenlernen.
 3. Ich möchte ein Video über Python anschauen, damit ich meiner besten Freundin in Informatik helfen kann.
 4. Ich möchte mir bei Visual Studio Code diese Haustiere anschaffen (:)
+5. HEUTE ARBEITE ICH AN EINER NEUEN PROGRAMMIERSPRACHE
 #### Tagesreflección
 1. .
 ### 13.03.2026
