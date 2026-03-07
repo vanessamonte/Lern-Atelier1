@@ -69,10 +69,11 @@ SIX SEVEN
 3. Ich möchte ein Video über Python anschauen, damit ich meiner besten Freundin in Informatik helfen kann.
 4. Ich möchte mir bei Visual Studio Code diese Haustiere anschaffen (:)
 #### Tagesreflección
-1. Ich habe heute versucht, am M187 weiterzuarbeiten, bin dann aber zum Entschluss gekommen, dass ich das Zuhause viel konzentrierter machen könnte am Wochenende. Deswegen habe ich mich entschieden, zukünftig als neue Sprache JavaScript selbständig zu lernen. Dafür habe ich heute bereits eine Serie von Videos für nächstes Mal herausgesucht.
+1. Ich habe heute versucht, am M187 weiterzuarbeiten, bin dann aber zum Entschluss gekommen, dass ich das Zuhause viel konzentrierter machen könnte am Wochenende. Deswegen habe ich mich entschieden, zukünftig im ILA eine neue Sprache JavaScript selbständig zu lernen. Dafür habe ich heute bereits eine Serie von Videos für nächstes Mal herausgesucht.
 2. Ich habe einen neuen Server in Discord erstellt, eine App in einem neuen Kanal hinzugefügt und die Berechtigungen verteilt.
 3. Ich habe das Python Video angeschaut und jetzt bisschen mehr verstanden.
 4. Thomi Lauenerrrr hat mir geholfen, die süssen Tiere auf Visual Studio Code zu erschaffen.
+5. Ich hatte ein riesen Problem mit Visual Studio... Die Lernperioden kamen doppelt vor, da habe ich die alte Version gelöscht und es hat plötzlich alle Lernperioden gelöscht! Ich wollte das Problem selbst lösen und habe herumprobiert... Dann habe ich entdeckt, dass die Lernperioden noch im Papierkorb waren, und ich konnte sie wiederherstellen und öffnen auf VSC. Glück gehabt!
 ### 13.03.2026
 1. Ich will alle Folgen vom JavaScript-Tutorial auf https://www.youtube.com/watch?v=1y0X1s4csWI&list=PL_pqkvxZ6ho04nTPbDP8alBt73COIgQKd anschauen.
 2. Ich möchte auf W3 Schools dann anschliessend Aufgaben dazu lösen.
