@@ -81,7 +81,7 @@ SIX SEVEN
 1. Ich möchte das CheatSheet auf VibeVenture zu HTML durchschauen und meine Website noch etwas weiter ergänzen, mehr Sachen ausprobieren.
 2. Ich muss für M187 noch eine Gruppenarbeit mit Frau Ördek und Herr Lauener nachholen.
 3. Ich möchte mich schon einmal über CSS informieren.
-4. AAHH UND ES GIBT EINE SESSION ÜBER WEB DEVELOPMENT YAYYY
+4. UND ES GIBT EINE SESSION ÜBER WEB DEVELOPMENT YAYYY perfektt
 #### Tagesreflección
 1. .
 2. .
