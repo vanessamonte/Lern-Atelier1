@@ -77,8 +77,11 @@ SIX SEVEN
 ### 13.03.2026
 1. Ich will alle Folgen vom JavaScript-Tutorial auf https://www.youtube.com/watch?v=1y0X1s4csWI&list=PL_pqkvxZ6ho04nTPbDP8alBt73COIgQKd anschauen.
 2. Ich möchte auf W3 Schools dann anschliessend Aufgaben dazu lösen.
+3. Ich möchte eine Frage auf VirtualBox klären: Wie viel GB RAM braucht es überhaupttt? Wir haben das im Modul gemacht, und die Antwort auf die selbe Frage hat sich immer wieder geändert, deswegen suche ich nun nach einer genauen Antwort bitte!
+4. Ich möchte mir überlegen, zu welcher Programmiersprache ich eine Session wünschen will, um einen besseren Einstieg zu haben und darauf aufbauen zu können.
+5. Ich möchte mir eine Übersicht der verschiedenen Programmiersprachen machen, um herauszufinden, welche für was gut ist. (z.B. auch wofür man C# in der Praxis verwendet.)
 #### Tagesreflección
-1. .
+1. Ich habe heute meine erste Website erstellt! Mehr Infos folgen in einer Stunde, ich schreibe dies nachher weiter:) Schönes Wochenende!
 ### 20.03.2026
 1. .
 #### Tagesreflección
