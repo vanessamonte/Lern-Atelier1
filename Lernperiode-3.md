@@ -8,7 +8,8 @@ Vanessa Monteleone
 - Unser erster Projektauftrag nach M319 ist abgeschlossen. ~~Note?~~
 - Ich hatte im Modul 162 (LB mit OBA) eine _5.5_ (Portfolio 6/6)
 - Modul 117 (Abgaben) steht bevor.
-- Modul 164 (LB-Projekt mit Kurztests) 
+- Ich hatte im Modul 164 (LB-Projekt mit Kurztests) eine _5.5_
+- Modul 187 (LB) steht bevor.
 ### Veränderungen
 - Ich möchte mich besser konzentrieren und nicht ablenken lassen.
 - Ich möchte die Pausen besser einteilen.
