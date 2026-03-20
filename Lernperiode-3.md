@@ -81,15 +81,19 @@ SIX SEVEN
 1. Ich habe heute meine erste Website erstellt! Mehr Infos folgen in einer Stunde, ich schreibe dies nachher weiter:) Schönes Wochenende!
 ### 20.03.2026
 1. Ich möchte das CheatSheet auf VibeVenture zu HTML durchschauen und meine Website noch etwas weiter ergänzen, mehr Sachen ausprobieren.
-2. Ich muss für M187 noch eine Gruppenarbeit mit Frau Ördek und Herr Lauener nachholen.
+2. Ich muss für M106 noch eine Gruppenarbeit mit Frau Ördek und Herr Lauener nachholen.
 3. Ich möchte mich schon einmal über CSS informieren.
 4. UND ES GIBT EINE SESSION ÜBER WEB DEVELOPMENT YAYYY perfektt
 #### Tagesreflección
-1. .
-2. .
-3. .
+1. Heute habe ich meine Website noch etwas erweitert mit dem CheatSheet.
+2. Wir haben gut zusammengearbeitet und die Gruppenarbeit abgeschlossen.
+3. Ich habe ein Video auch auf Vibe Venture über CSS geschaut.
+4. Bei der Session habe ich sehr viel neue Befehle in HTML gelernt und auch besser verstanden, und wie man die HTML-Datei mit einem Befehl mit CSS und JS verbinden kann. ECHT COOL! Danke dafür.
 ### 27.03.2026
-1. .
+1. Ich habe meine Website bisher auf Notepad bearbeitet. Ich will den Code nun auf Visual Studio Code bringen.
+2. Ich möchte mit CSS anfangen meine Website damit gestalten, und mit der HTML-Datei verlinken damit das überhaupt funktioniert.
+3. Ich möchte ein paar neue Tastenkombinationen kennenlernen, um schneller auf meinem Laptop zu sein (war echt impressed von Herrn Lauk :) (Developper dings unten bei Browser, mehrere Cursur, ...)
+4. ICH MÖCHTE WEGEN VISUAL CODE FRAGEN WIESO ICH ZWEI MAL DIE GLEICHE DATEI HABE UND ICH SIE NICHT LÖSCHEN KANN WEIL ES SONST KOMPLETT LÖSCHT UND ICH DESWEGEN IMMER ZWEI MAL COMMITTEN MUSS aber alles gut jaja
 #### Tagesreflección
 1. .
 ### 03.04.2026
