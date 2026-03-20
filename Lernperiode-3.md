@@ -74,17 +74,11 @@ SIX SEVEN
 ### 13.03.2026
 1. Ich will alle Folgen vom JavaScript-Tutorial auf https://www.youtube.com/watch?v=1y0X1s4csWI&list=PL_pqkvxZ6ho04nTPbDP8alBt73COIgQKd anschauen.
 2. Ich möchte auf W3 Schools dann anschliessend Aufgaben dazu lösen.
-<<<<<<< HEAD
 3. Ich möchte eine Frage auf VirtualBox klären: Wie viel GB RAM braucht es überhaupttt? Wir haben das im Modul gemacht, und die Antwort auf die selbe Frage hat sich immer wieder geändert, deswegen suche ich nun nach einer genauen Antwort bitte!
 4. Ich möchte mir überlegen, zu welcher Programmiersprache ich eine Session wünschen will, um einen besseren Einstieg zu haben und darauf aufbauen zu können.
 5. Ich möchte mir eine Übersicht der verschiedenen Programmiersprachen machen, um herauszufinden, welche für was gut ist. (z.B. auch wofür man C# in der Praxis verwendet.)
 #### Tagesreflección
 1. Ich habe heute meine erste Website erstellt! Mehr Infos folgen in einer Stunde, ich schreibe dies nachher weiter:) Schönes Wochenende!
-=======
-3. Ich möchte mich über die verschiedenen Programmiersprachen informieren (Welche gibt es? Für was werden sie genutzt?.
-#### Tagesreflección
-3. Heute habe ich mich zu den verschiedenen Programmiersprachen informiert. Ich habe mir auch Videos zu JavaScript angeschaut, und dann bin ich zum Entschluss gekommen, dass es ja für Websiten genutzt wird um HTML und CSS zu verbinden. Also habe ich erstmals mit HTML anfangen wollen. Ich habe dabei ein wieauchimmerdasheisst Website gefunden (Vibe Venture), der einen Schritt für Schritt begleitet, es gab da so eine Anleitung für eine Taco-Website. Diese habe ich dann auch mit HTML gemäss der Anleitung erstellt. Dort waren aber nur die basics erklärt, und ich wollte dann mehr herausfinden. Ich konnte zum Teil selber die Befehle kombinieren und ergänzen, dann habe ich aber auch ein bisschen zu ChatGPT gegriffen, um mehr Funktionen einzubauen. Ich bin mit meinem Grundgerüst sehr zufrieden, ich konnte sehr viele Sachen ausprobieren und bin richtig stolz :)
->>>>>>> aa3109f8bfd76bae4a61f58be90b56fd6e455d32
 ### 20.03.2026
 1. Ich möchte das CheatSheet auf VibeVenture zu HTML durchschauen und meine Website noch etwas weiter ergänzen, mehr Sachen ausprobieren.
 2. Ich muss für M187 noch eine Gruppenarbeit mit Frau Ördek und Herr Lauener nachholen.
