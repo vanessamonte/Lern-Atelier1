@@ -8,7 +8,7 @@ Vanessa Monteleone
 - Unser erster Projektauftrag nach M319 ist abgeschlossen. ~~Note?~~
 - Ich hatte im Modul 162 (LB mit OBA) eine _5.5_ (Portfolio 6/6)
 - Modul 117 (Abgaben) steht bevor.
-- Modul 164 (LB-Projekt) steht bevor.
+- Modul 164 (LB-Projekt mit Kurztests) 
 ### Veränderungen
 - Ich möchte mich besser konzentrieren und nicht ablenken lassen.
 - Ich möchte die Pausen besser einteilen.
@@ -39,14 +39,10 @@ THIRTY-EIGHT
 1. Die Besprechung hat sehr gut funktioniert und wir fühlen uns sehr sicher für das Netzwerklabor!
 2. Ich habe im M164 weiterarbeiten können und habe alles verstanden mit Hilfe meiner Klassenkameraden.
 ### 30.01.2026
-1. .
 ##### _Sportferieenn_
 ### 20.02.2026
-1. .
 ### 27.02.2026
-1. .
 ### 06.03.2026
-1. .
 ### 13.03.2026
 1. ich habe vergessen was ich da gemacht habe, sorry:()
 ### 20.03.2026
@@ -77,12 +73,18 @@ SIX SEVEN
 ### 13.03.2026
 1. Ich will alle Folgen vom JavaScript-Tutorial auf https://www.youtube.com/watch?v=1y0X1s4csWI&list=PL_pqkvxZ6ho04nTPbDP8alBt73COIgQKd anschauen.
 2. Ich möchte auf W3 Schools dann anschliessend Aufgaben dazu lösen.
+3. Ich möchte mich über die verschiedenen Programmiersprachen informieren (Welche gibt es? Für was werden sie genutzt?.
 #### Tagesreflección
-1. .
+3. Heute habe ich mich zu den verschiedenen Programmiersprachen informiert. Ich habe mir auch Videos zu JavaScript angeschaut, und dann bin ich zum Entschluss gekommen, dass es ja für Websiten genutzt wird um HTML und CSS zu verbinden. Also habe ich erstmals mit HTML anfangen wollen. Ich habe dabei ein wieauchimmerdasheisst Website gefunden (Vibe Venture), der einen Schritt für Schritt begleitet, es gab da so eine Anleitung für eine Taco-Website. Diese habe ich dann auch mit HTML gemäss der Anleitung erstellt. Dort waren aber nur die basics erklärt, und ich wollte dann mehr herausfinden. Ich konnte zum Teil selber die Befehle kombinieren und ergänzen, dann habe ich aber auch ein bisschen zu ChatGPT gegriffen, um mehr Funktionen einzubauen. Ich bin mit meinem Grundgerüst sehr zufrieden, ich konnte sehr viele Sachen ausprobieren und bin richtig stolz :)
 ### 20.03.2026
-1. .
+1. Ich möchte das CheatSheet auf VibeVenture zu HTML durchschauen und meine Website noch etwas weiter ergänzen, mehr Sachen ausprobieren.
+2. Ich muss für M187 noch eine Gruppenarbeit mit Frau Ördek und Herr Lauener nachholen.
+3. Ich möchte mich schon einmal über CSS informieren.
+4. AAHH UND ES GIBT EINE SESSION ÜBER WEB DEVELOPMENT YAYYY
 #### Tagesreflección
 1. .
+2. .
+3. .
 ### 27.03.2026
 1. .
 #### Tagesreflección
