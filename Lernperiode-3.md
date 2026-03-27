@@ -95,10 +95,13 @@ SIX SEVEN
 ### 27.03.2026
 1. ICH HABE GERADE GEMERKT, DASS ICH IRGENDWAS BEI DEN DATEN HIER FALSCH GEMACHT HABE / VERRUTSCHT BIN
 HEUTE IST JA DER 27. ABER DAS HABE ICH SCHON LETZTE WOCHE GESCHRIEBEN? SEHR SPEZIELL
+UND ICH MÖCHTE ENDLICH MEIN VISUAL STUDIO CODE KORRIGIEREN WEIL ICH DIE DATEIEN IRGENDWIE DOPPELT OFFEN HABE??!
 2. Ich möchte heute die Kurse auf VibeVenture zum Programmieren machen.
+(https://app.vibeventure.de/lektion/crashkurs-was-ist-programmieren/)
 #### Tagesreflección
 1. ICH HABE DEN FEHLER IMMERNOCH NICHT GEFUNDEN WAS IST DAASS
-2. 
+2. ICH VERSUCHE DAS NÄCHSTES MAL MIT HILFE VON HERRN LAUK BITTE
+3. Ich bin bis zum Kurs .. gekommen.
 
 ## Reflexion der Lernperiode
 Diese Lernperiode habe ich, wie bei den zwei Perioden bevor, mich mehr auf die Aufträge in den Modulen konzentriert. Ich weiss jetzt, dass das nicht der Sinn vom Lernatelier war. Erst am Schluss habe ich mich mit wirklich Programmieren beschäftigt. Ich möchte gerne für die nächste Lernperiode ein Projekt erarbeiten. Ich weiss jetzt, wie HTML funktioniert, und habe schon etwas Wissen für CSS und JavaScript gesammelt, aber ich möchte das noch mehr ausbauen und eine richtige Website mit all den drei Programmiersprachen entwerfen.
