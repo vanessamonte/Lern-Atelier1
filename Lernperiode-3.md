@@ -35,18 +35,14 @@ _~HAPPY NEW YEAR!!_
 ### 23.01.2026
 1. Ich möchte mit meiner Gruppe noch alle Vorbereitungen für das Netzwerklabor am Mittwoch besprechen.
 2. Ich möchte im Modul 164 weiterarbeiten und die Aufträge aufholen.
-#### Tagesreflexion
 THIRTY-EIGHT
+#### Tagesreflexion
 1. Die Besprechung hat sehr gut funktioniert und wir fühlen uns sehr sicher für das Netzwerklabor!
 2. Ich habe im M164 weiterarbeiten können und habe alles verstanden mit Hilfe meiner Klassenkameraden.
 ### 30.01.2026
+1. ich habe vergessen was ich da gemacht habe, sorry:()
 ##### _Sportferieenn_
 ### 20.02.2026
-### 27.02.2026
-### 06.03.2026
-### 13.03.2026
-1. ich habe vergessen was ich da gemacht habe, sorry:()
-### 20.03.2026
 1. Ich möchte am Modul 117 weiterarbeiten.
 2. Ich möchte für die Dokumentation des Netzwerklabors mit meiner Gruppe die letzten Angelegenheiten besprechen.
 #### Tagesreflección
@@ -96,7 +92,17 @@ SIX SEVEN
 4. ICH MÖCHTE WEGEN VISUAL CODE FRAGEN WIESO ICH ZWEI MAL DIE GLEICHE DATEI HABE UND ICH SIE NICHT LÖSCHEN KANN WEIL ES SONST KOMPLETT LÖSCHT UND ICH DESWEGEN IMMER ZWEI MAL COMMITTEN MUSS aber alles gut jaja
 #### Tagesreflección
 1. .
-### 03.04.2026
+### 27.03.2026
+1. ICH HABE GERADE GEMERKT, DASS ICH IRGENDWAS BEI DEN DATEN HIER FALSCH GEMACHT HABE / VERRUTSCHT BIN
+HEUTE IST JA DER 27. ABER DAS HABE ICH SCHON LETZTE WOCHE GESCHRIEBEN? SEHR SPEZIELL
+2. Ich möchte heute die Kurse auf VibeVenture zum Programmieren machen.
+#### Tagesreflección
+1. ICH HABE DEN FEHLER IMMERNOCH NICHT GEFUNDEN WAS IST DAASS
+2. 
+
+## Reflexion der Lernperiode
+Diese Lernperiode habe ich, wie bei den zwei Perioden bevor, mich mehr auf die Aufträge in den Modulen konzentriert. Ich weiss jetzt, dass das nicht der Sinn vom Lernatelier war. Erst am Schluss habe ich mich mit wirklich Programmieren beschäftigt. Ich möchte gerne für die nächste Lernperiode ein Projekt erarbeiten. Ich weiss jetzt, wie HTML funktioniert, und habe schon etwas Wissen für CSS und JavaScript gesammelt, aber ich möchte das noch mehr ausbauen und eine richtige Website mit all den drei Programmiersprachen entwerfen.
+
 _KARFREITAG - FREI_
 ##### _Frühlingsferien_
 _Lernperiode3 Ende !!!_
